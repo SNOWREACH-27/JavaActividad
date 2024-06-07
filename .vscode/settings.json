@@ -1,0 +1,20 @@
+{
+    "java.project.sourcePaths": ["src","src/"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "ANTIGUEDAD",
+        "asdasd",
+        "asdgasd",
+        "ausdhy",
+        "cedula",
+        "horastrabajadas",
+        "Jtext",
+        "redimensionarse",
+        "telefono",
+        "Textand"
+    ],
+    "CodeGPT.Autocomplete.enabled": true
+}
